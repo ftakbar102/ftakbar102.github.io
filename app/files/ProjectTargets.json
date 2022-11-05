@@ -1,11 +1,9 @@
-[
-    {"ProjectId":1,"Target":7500},
-    {"ProjectId":2,"Target":10000},
-    {"ProjectId":3,"Target":7500},
-    {"ProjectId":4,"Target":15000},
-    {"ProjectId":5,"Target":3375},
-    {"ProjectId":6,"Target":16425},
-    {"ProjectId":7,"Target":7650},
-    {"ProjectId":8,"Target":11475},
-    {"ProjectId":9,"Target":6075}
-]
+[{"ProjectId":1,"Target":7500,"ClusterId":1},
+{"ProjectId":2,"Target":10000,"ClusterId":1},
+{"ProjectId":3,"Target":7500,"ClusterId":1},
+{"ProjectId":4,"Target":15000,"ClusterId":1},
+{"ProjectId":5,"Target":3375,"ClusterId":2},
+{"ProjectId":6,"Target":16425,"ClusterId":2},
+{"ProjectId":7,"Target":7650,"ClusterId":2},
+{"ProjectId":8,"Target":11475,"ClusterId":2},
+{"ProjectId":9,"Target":6075,"ClusterId":2}]
