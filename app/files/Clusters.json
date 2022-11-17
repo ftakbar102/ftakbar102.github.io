@@ -1,4 +1,22 @@
 [
-    {"Id":1,"Name":"BANDUNG RAYA","Coordinator":"IKEU"},
-    {"Id":2,"Name":"BODEBEK","Coordinator":"UTHU"}
+  {
+    "Id": 1,
+    "Name": "BANDUNG RAYA",
+    "Coordinator": "IKEU"
+  },
+  {
+    "Id": 2,
+    "Name": "BODEBEK",
+    "Coordinator": "FIRMAN"
+  },
+  {
+    "Id": 3,
+    "Name": "SUKABUMI RAYA",
+    "Coordinator": "GERI"
+  },
+  {
+    "Id": 4,
+    "Name": "PARAHYANGAN TIMUR",
+    "Coordinator": "AAM"
+  }
 ]
