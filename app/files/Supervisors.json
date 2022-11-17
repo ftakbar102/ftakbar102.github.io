@@ -1,10 +1,107 @@
-[{"Id":1,"Name":"LIA","ClusterId":1},
-{"Id":2,"Name":"SANTI","ClusterId":1},
-{"Id":3,"Name":"WULAN","ClusterId":1},
-{"Id":4,"Name":"WINA","ClusterId":1},
-{"Id":5,"Name":"KRISTANTI","ClusterId":1},
-{"Id":6,"Name":"SIGIT","ClusterId":2},
-{"Id":7,"Name":"MUHAMMAD AFAN GHOFFAR","ClusterId":2},
-{"Id":8,"Name":"RCH GINAN NUGRAHA","ClusterId":2},
-{"Id":9,"Name":"DENI SABTIAWAN","ClusterId":2},
-{"Id":10,"Name":"WAIRRUDIN","ClusterId":2}]
+[
+  {
+    "Id": 1,
+    "Name": "LIA",
+    "ClusterId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "SANTI",
+    "ClusterId": 1
+  },
+  {
+    "Id": 3,
+    "Name": "WULAN",
+    "ClusterId": 1
+  },
+  {
+    "Id": 4,
+    "Name": "WINA",
+    "ClusterId": 1
+  },
+  {
+    "Id": 5,
+    "Name": "KRISTANTI",
+    "ClusterId": 1
+  },
+  {
+    "Id": 6,
+    "Name": "SIGIT",
+    "ClusterId": 2
+  },
+  {
+    "Id": 7,
+    "Name": "MUHAMMAD AFAN GHOFFAR",
+    "ClusterId": 2
+  },
+  {
+    "Id": 8,
+    "Name": "RCH GINAN NUGRAHA",
+    "ClusterId": 2
+  },
+  {
+    "Id": 9,
+    "Name": "DENI SABTIAWAN",
+    "ClusterId": 2
+  },
+  {
+    "Id": 10,
+    "Name": "WAIRRUDIN",
+    "ClusterId": 2
+  },
+  {
+    "Id": 11,
+    "Name": "KORWIL I",
+    "ClusterId": 3
+  },
+  {
+    "Id": 12,
+    "Name": "KORWIL II",
+    "ClusterId": 3
+  },
+  {
+    "Id": 13,
+    "Name": "KORWIL III",
+    "ClusterId": 3
+  },
+  {
+    "Id": 14,
+    "Name": "KORWIL KAB BEKASI",
+    "ClusterId": 2
+  },
+  {
+    "Id": 15,
+    "Name": "KORWIL KAB BOGOR",
+    "ClusterId": 2
+  },
+  {
+    "Id": 16,
+    "Name": "KORWIL KOTA BEKASI",
+    "ClusterId": 2
+  },
+  {
+    "Id": 17,
+    "Name": "KORWIL KOTA BOGOR",
+    "ClusterId": 2
+  },
+  {
+    "Id": 18,
+    "Name": "KORWIL KOTA DEPOK",
+    "ClusterId": 2
+  },
+  {
+    "Id": 19,
+    "Name": "MARUF MUTAQIEN",
+    "ClusterId": 4
+  },
+  {
+    "Id": 20,
+    "Name": "AAM IMANULLAH",
+    "ClusterId": 4
+  },
+  {
+    "Id": 21,
+    "Name": "DENI IRAWAN",
+    "ClusterId": 4
+  }
+]
