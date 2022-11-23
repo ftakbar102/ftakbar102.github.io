@@ -1,22 +1,22 @@
 [
   {
     "ProjectId": 1,
-    "Target": 7500,
+    "Target": 23500,
     "ClusterId": 1
   },
   {
     "ProjectId": 2,
-    "Target": 10000,
+    "Target": 45000,
     "ClusterId": 1
   },
   {
     "ProjectId": 3,
-    "Target": 7500,
+    "Target": 28000,
     "ClusterId": 1
   },
   {
     "ProjectId": 4,
-    "Target": 15000,
+    "Target": 23500,
     "ClusterId": 1
   },
   {
