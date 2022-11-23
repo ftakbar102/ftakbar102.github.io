@@ -3119,21 +3119,21 @@
     "ProjectId": 13,
     "Kecamatan": "LEUWIGOONG",
     "Kelurahan": "DESA SINDANGSARI",
-    "XmlFormId": "KABUPATEN_GARUT_LEUWIGOONG_DESA_SINDARSARI"
+    "XmlFormId": "KABUPATEN_GARUT_LEUWIGOONG_DESA_SINDANGSARI"
   },
   {
     "SupervisorId": 19,
     "ProjectId": 15,
     "Kecamatan": "PARIGI",
     "Kelurahan": "CINTARATU",
-    "XmlFormId": "KABUPATEN_PANGADARAN_PARIGI_CINTARATU"
+    "XmlFormId": "KABUPATEN_PANGANDARAN_PARIGI_CINTARATU"
   },
   {
     "SupervisorId": 19,
     "ProjectId": 15,
     "Kecamatan": "PARIGI",
     "Kelurahan": "SELASARI",
-    "XmlFormId": "KABUPATEN_PANGADARAN_PARIGI_SELASARI"
+    "XmlFormId": "KABUPATEN_PANGANDARAN_PARIGI_SELASARI"
   },
   {
     "SupervisorId": 20,
