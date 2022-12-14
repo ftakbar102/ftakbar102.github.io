@@ -103,5 +103,15 @@
     "Id": 21,
     "Name": "DENI IRAWAN",
     "ClusterId": 4
+  },
+  {
+    "Id": 22,
+    "Name": "ANITA PRAMADYANA",
+    "ClusterId": 2
+  },
+  {
+    "Id": 23,
+    "Name": "SANDI PUTRA WIJAYA",
+    "ClusterId": 2
   }
 ]
