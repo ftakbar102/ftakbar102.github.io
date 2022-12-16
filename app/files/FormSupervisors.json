@@ -3911,5 +3911,68 @@
     "Kecamatan": "TARUMAJAYA",
     "Kelurahan": "SETIA ASIH",
     "XmlFormId": "KABUPATEN_BEKASI_TARUMAJAYA_SETIA_ASIH"
+  },
+  {
+    "SupervisorId": 23,
+    "ProjectId": 5,
+    "Kecamatan": "CIKARANG UTARA",
+    "Kelurahan": "WALUYA",
+    "XmlFormId": "KABUPATEN_BEKASI_CIKARANG_UTARA_WALUYA"
+  },
+  {
+    "SupervisorId": 23,
+    "ProjectId": 5,
+    "Kecamatan": "CIKARANG UTARA",
+    "Kelurahan": "KARANGRAHARJA",
+    "XmlFormId": "KABUPATEN_BEKASI_CIKARANG_UTARA_KARANGRAHARJA"
+  },
+  {
+    "SupervisorId": 4,
+    "ProjectId": 2,
+    "Kecamatan": "BANJARAN",
+    "Kelurahan": "BANJARAN WETAN",
+    "XmlFormId": "KABUPATEN_BANDUNG_BANJARAN_BANJARAN_WETAN"
+  },
+  {
+    "SupervisorId": 4,
+    "ProjectId": 2,
+    "Kecamatan": "PACET",
+    "Kelurahan": "MARUYUNG",
+    "XmlFormId": "KABUPATEN_BANDUNG_PACET_MARUYUNG"
+  },
+  {
+    "SupervisorId": 4,
+    "ProjectId": 2,
+    "Kecamatan": "PANGALENGAN",
+    "Kelurahan": "PANGALENGAN",
+    "XmlFormId": "KABUPATEN_BANDUNG_PANGALENGAN_PANGALENGAN"
+  },
+  {
+    "SupervisorId": 4,
+    "ProjectId": 2,
+    "Kecamatan": "CIMAUNG",
+    "Kelurahan": "JAGABAYA",
+    "XmlFormId": "KABUPATEN_BANDUNG_CIMAUNG_JAGABAYA"
+  },
+  {
+    "SupervisorId": 20,
+    "ProjectId": 18,
+    "Kecamatan": "PURBARATU",
+    "Kelurahan": "SUKAMENAK",
+    "XmlFormId": "KOTA_TASIKMALAYA_PURBARATU_SUKAMENAK"
+  },
+  {
+    "SupervisorId": 20,
+    "ProjectId": 18,
+    "Kecamatan": "PURBARATU",
+    "Kelurahan": "SUKAASIH",
+    "XmlFormId": "KOTA_TASIKMALAYA_PURBARATU_SUKAASIH"
+  },
+  {
+    "SupervisorId": 1,
+    "ProjectId": 1,
+    "Kecamatan": "LENGKONG",
+    "Kelurahan": "MALABAR",
+    "XmlFormId": "KOTA_BANDUNG_LENGKONG_MALABAR"
   }
 ]
