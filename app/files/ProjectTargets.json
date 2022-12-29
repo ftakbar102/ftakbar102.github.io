@@ -1,17 +1,17 @@
 [
   {
     "ProjectId": 1,
-    "Target": 23500,
+    "Target": 27000,
     "ClusterId": 1
   },
   {
     "ProjectId": 2,
-    "Target": 45000,
+    "Target": 47000,
     "ClusterId": 1
   },
   {
     "ProjectId": 3,
-    "Target": 28000,
+    "Target": 22500,
     "ClusterId": 1
   },
   {
@@ -61,32 +61,27 @@
   },
   {
     "ProjectId": 13,
-    "Target": 12480,
+    "Target": 22447,
     "ClusterId": 4
   },
   {
     "ProjectId": 14,
-    "Target": 5200,
+    "Target": 1773,
     "ClusterId": 4
   },
   {
     "ProjectId": 15,
-    "Target": 4680,
+    "Target": 12333,
     "ClusterId": 4
   },
   {
     "ProjectId": 16,
-    "Target": 11960,
-    "ClusterId": 4
-  },
-  {
-    "ProjectId": 16,
-    "Target": 11960,
+    "Target": 19845,
     "ClusterId": 4
   },
   {
     "ProjectId": 18,
-    "Target": 5200,
+    "Target": 5143,
     "ClusterId": 4
   }
 ]
