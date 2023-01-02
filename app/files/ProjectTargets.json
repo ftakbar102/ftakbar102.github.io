@@ -46,17 +46,17 @@
   },
   {
     "ProjectId": 10,
-    "Target": 3000,
+    "Target": 6000,
     "ClusterId": 3
   },
   {
     "ProjectId": 11,
-    "Target": 18000,
+    "Target": 36000,
     "ClusterId": 3
   },
   {
     "ProjectId": 12,
-    "Target": 15000,
+    "Target": 30000,
     "ClusterId": 3
   },
   {
