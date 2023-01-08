@@ -1008,13 +1008,6 @@
     "XmlFormId": "KOTA_DEPOK_LIMO_KEL_KRUKUT"
   },
   {
-    "SupervisorId": 7,
-    "ProjectId": 6,
-    "Kecamatan": "LIMO",
-    "Kelurahan": "KEL MERUYUNG",
-    "XmlFormId": "KOTA_DEPOK_LIMO_KEL_MERUYUNG"
-  },
-  {
     "SupervisorId": 8,
     "ProjectId": 7,
     "Kecamatan": "KECAMATAN BOGOR TIMUR",
@@ -3747,9 +3740,9 @@
   {
     "SupervisorId": 20,
     "ProjectId": 18,
-    "Kecamatan": "PURBARATU",
+    "Kecamatan": "MANGKUBUMI",
     "Kelurahan": "SUKANEGARA",
-    "XmlFormId": "KOTA_TASIKMALAYA_PURBARATU_SUKANEGARA"
+    "XmlFormId": "KOTA_TASIKMALAYA_MANGKUBUMI_SUKANEGARA"
   },
   {
     "SupervisorId": 21,
@@ -3957,16 +3950,16 @@
   {
     "SupervisorId": 20,
     "ProjectId": 18,
-    "Kecamatan": "PURBARATU",
+    "Kecamatan": "MANGKUBUMI",
     "Kelurahan": "SUKAMENAK",
-    "XmlFormId": "KOTA_TASIKMALAYA_PURBARATU_SUKAMENAK"
+    "XmlFormId": "KOTA_TASIKMALAYA_MANGKUBUMI_SUKAMENAK"
   },
   {
     "SupervisorId": 20,
     "ProjectId": 18,
-    "Kecamatan": "PURBARATU",
+    "Kecamatan": "MANGKUBUMI",
     "Kelurahan": "SUKAASIH",
-    "XmlFormId": "KOTA_TASIKMALAYA_PURBARATU_SUKAASIH"
+    "XmlFormId": "KOTA_TASIKMALAYA_MANGKUBUMI_SUKAASIH"
   },
   {
     "SupervisorId": 3,
