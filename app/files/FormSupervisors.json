@@ -4053,15 +4053,15 @@
     "XmlFormId": "KOTA_BEKASI_BEKASI_SELATAN_MARGAJAYA"
   },
   {
-    "SupervisorId": 2,
-    "ProjectId": 5,
+    "SupervisorId": 5,
+    "ProjectId": 2,
     "Kecamatan": "CIMENYAN",
     "Kelurahan": "CIMENYAN",
     "XmlFormId": "KABUPATEN_BANDUNG_CIMENYAN_CIMENYAN"
   },
   {
-    "SupervisorId": 2,
-    "ProjectId": 5,
+    "SupervisorId": 5,
+    "ProjectId": 2,
     "Kecamatan": "CIMENYAN",
     "Kelurahan": "CIBURIAL",
     "XmlFormId": "KABUPATEN_BANDUNG_CIMENYAN_CIBURIAL"
