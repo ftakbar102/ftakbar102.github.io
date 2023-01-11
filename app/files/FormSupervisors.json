@@ -584,13 +584,6 @@
     "SupervisorId": 6,
     "ProjectId": 5,
     "Kecamatan": "CIKARANG UTARA",
-    "Kelurahan": "KARANGBARU",
-    "XmlFormId": "KABUPATEN_BEKASI_CIKARANG_UTARA_KARANGBARU"
-  },
-  {
-    "SupervisorId": 6,
-    "ProjectId": 5,
-    "Kecamatan": "CIKARANG UTARA",
     "Kelurahan": "DESA SIMPANGAN",
     "XmlFormId": "KABUPATEN_BEKASI_CIKARANG_UTARA_DESA_SIMPANGAN"
   },
