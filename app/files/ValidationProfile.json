@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Name": "default",
+    "ProjectTemplate": 1,
+    "FormTemplate": "KOTA_BANDUNG_ANDIR_MALEBER",
+    "Types": [
+      {
+        "Name": "accuracy_alamat",
+        "Type": "Accuracy",
+        "FirstParameter": "alamat",
+        "SecondParameter": null,
+        "MinValue": 0,
+        "MaxValue": 10000
+      },
+      {
+        "Name": "dtd_duration",
+        "Type": "Duration",
+        "FirstParameter": "start",
+        "SecondParameter": "end",
+        "MinValue": 2,
+        "MaxValue": 240
+      },
+      {
+        "Name": "phone_validation",
+        "Type": "Phone",
+        "FirstParameter": "no_telepon",
+        "SecondParameter": null,
+        "MinValue": 0,
+        "MaxValue": 10000
+      }
+    ]
+  }
+]
