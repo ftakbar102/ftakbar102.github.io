@@ -4786,5 +4786,82 @@
     "Kecamatan": "PADAHERANG",
     "Kelurahan": "CIGANJENG",
     "XmlFormId": "KABUPATEN_PANGANDARAN_PADAHERANG_CIGANJENG"
+  },
+  {
+    "SupervisorId": 23,
+    "ProjectId": 5,
+    "Kecamatan": "CIKARANG TIMUR",
+    "Kelurahan": "KARANGSARI",
+    "XmlFormId": "KABUPATEN_BEKASI_CIKARANG_TIMUR_KARANGSARI"
+  },
+  {
+    "SupervisorId": 23,
+    "ProjectId": 5,
+    "Kecamatan": "SUKATANI",
+    "Kelurahan": "SUKA RUKUN",
+    "XmlFormId": "KABUPATEN_BEKASI_SUKATANI_SUKA_RUKUN"
+  },
+  {
+    "SupervisorId": 23,
+    "ProjectId": 5,
+    "Kecamatan": "CIKARANG UTARA",
+    "Kelurahan": "HAJARMEKAR",
+    "XmlFormId": "KABUPATEN_BEKASI_CIKARANG_UTARA_HAJARMEKAR"
+  },
+  {
+    "SupervisorId": 23,
+    "ProjectId": 5,
+    "Kecamatan": "BABELAN",
+    "Kelurahan": "KEDUNG JAYA",
+    "XmlFormId": "KABUPATEN_BEKASI_BABELAN_KEDUNG_JAYA"
+  },
+  {
+    "SupervisorId": 23,
+    "ProjectId": 5,
+    "Kecamatan": "BABELAN",
+    "Kelurahan": "KEDUNG PENGAWAS",
+    "XmlFormId": "KABUPATEN_BEKASI_BABELAN_KEDUNG_PENGAWAS"
+  },
+  {
+    "SupervisorId": 23,
+    "ProjectId": 5,
+    "Kecamatan": "BABELAN",
+    "Kelurahan": "BUNI BAKTI",
+    "XmlFormId": "KABUPATEN_BEKASI_BABELAN_BUNI_BAKTI"
+  },
+  {
+    "SupervisorId": 22,
+    "ProjectId": 8,
+    "Kecamatan": "RAWALUMBU",
+    "Kelurahan": "SEPANJANG JAYA",
+    "XmlFormId": "KOTA_BEKASI_RAWALUMBU_SEPANJANG_JAYA"
+  },
+  {
+    "SupervisorId": 22,
+    "ProjectId": 8,
+    "Kecamatan": "PONDOK MELATI",
+    "Kelurahan": "JATIWARNA",
+    "XmlFormId": "KOTA_BEKASI_PONDOK_MELATI_JATIWARNA"
+  },
+  {
+    "SupervisorId": 21,
+    "ProjectId": 13,
+    "Kecamatan": "BANYURESMI",
+    "Kelurahan": "DANGDEUR",
+    "XmlFormId": "KABUPATEN_GARUT_BANYURESMI_DANGDEUR"
+  },
+  {
+    "SupervisorId": 21,
+    "ProjectId": 13,
+    "Kecamatan": "BANYURESMI",
+    "Kelurahan": "SUKARAJA",
+    "XmlFormId": "KABUPATEN_GARUT_BANYURESMI_SUKARAJA"
+  },
+  {
+    "SupervisorId": 21,
+    "ProjectId": 13,
+    "Kecamatan": "BANYURESMI",
+    "Kelurahan": "SUKAKARYA",
+    "XmlFormId": "KABUPATEN_GARUT_BANYURESMI_SUKAKARYA"
   }
 ]
